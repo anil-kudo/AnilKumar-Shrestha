@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I am a software tester and QA Automation Enthusiast.
-- 🌱 I enjoy automating web/mobile applications UI/API using Robotframework with python language. 
+- 🌱 I enjoy automating web/mobile applications UI/API using Robotframework with python language and using TestNg with JAVA. 
 - 👯 I’m looking to collaborate with people who are willing to teach/learn and write awesome clean test codes.
 - 🤔 I’m looking for learning & working on DevOps project to get more insight on it .
 - 💬 Ask me about software testing startegies and Test Automation.
